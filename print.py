@@ -1,0 +1,8 @@
+print("hola")
+print("5"+"bryan")
+print("ESTA ES LA CLASE NO .2 NUMEROS Y VARIABLES")
+print("este son los tipos de datos")
+print("este es un tipo de datos")
+print(10)
+print(True)
+print(5+10)
